@@ -17,4 +17,4 @@ For bo3/bo5 sets, CLEAR CHAMPS sets all champs and bans to the first value which
 
 # Modification
 
-I heartlessly ripped a bunch of images from one of Riot's websites, but if you have more appropriately sized ones for your broadcast (or, more likely, an update comes out and i haven't updated this tool), the tool will happily accept any .png file in inputs. Make sure the file name is the same as the champ name for your own sake. Also, make sure you have one image named !BLANK or equivalent, else the tool will reset to the first champion alphabetically.
+I heartlessly ripped a bunch of images from one of Riot's websites, but if you have more appropriately sized ones for your broadcast (or, more likely, an update comes out and I haven't updated this tool), the tool will happily accept any .png file in /input. Make sure the file name is the same as the champ name for your own sake. Also, make sure you have one image named !BLANK or equivalent, else the tool will reset to the first champion alphabetically.
